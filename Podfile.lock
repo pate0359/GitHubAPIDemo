@@ -1,0 +1,19 @@
+PODS:
+  - Alamofire (3.4.1)
+  - AlamofireImage (2.4.0):
+    - Alamofire (~> 3.3)
+  - ReachabilitySwift (2.3.3)
+
+DEPENDENCIES:
+  - Alamofire (~> 3.4)
+  - AlamofireImage (~> 2.0)
+  - ReachabilitySwift
+
+SPEC CHECKSUMS:
+  Alamofire: 01a82e2f6c0f860ade35534c8dd88be61bdef40c
+  AlamofireImage: 87408b652e0f5ae5fe364035f15aea8b9b24c77e
+  ReachabilitySwift: e0f6b6f280effb47731acfaaa2d5ffe223703793
+
+PODFILE CHECKSUM: 4c55a95cd2e5aa9d2f41268373b1bb9ed1992164
+
+COCOAPODS: 1.0.1
